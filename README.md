@@ -70,20 +70,45 @@ Results should be tied to a specific version of the eval and include enough info
 
 Reproductions and validation work are especially valuable, including cases where results do not reproduce or where an evaluation turns out to have important limitations.
 
+## Our Mission
+
+OpenEvals is an open, community-led research initiative dedicated to making AI evaluation more rigorous, representative, and accessible.
+
+We bring together people with diverse expertise, languages, cultures, and perspectives to evaluate AI systems in the contexts that matter to them. Through participatory research, we develop and share open datasets, evaluations, methods, and tools that help us better understand AI capabilities, limitations, and real-world behavior.
+
+Our goal is to understand where AI works, where it fails, for whom, and why. Above all, we value genuine curiosity, independent thinking, research integrity, and thoughtful collaboration.
+
 ## Community Code of Conduct
 
-OpenEvals is a collaborative community built around rigorous work, open discussion, and good-faith contribution.
+OpenEvals is a collaborative community built around rigorous research, open discussion, and good-faith contributions.
 
-Please follow a few simple expectations:
+### Community Discussion Guidelines
 
-* critique the work, not the person
-* be constructive and explain your reasoning
-* give credit, document provenance, and respect licenses
-* contribute work that is relevant, reviewable, and of sufficient quality for others to understand or use
-* respect privacy and do not contribute improperly obtained, proprietary, confidential, or otherwise restricted data
-* use AI tools responsibly: review and verify generated content before contributing it, and avoid low-quality or bulk-generated submissions
-* do not submit fabricated, malicious, deceptive, or intentionally misleading artifacts, data, results, or claims
-* no harassment, discrimination, spam, or other abusive behavior
+We welcome open discussion, constructive criticism, and diverse perspectives. To keep discussions productive:
 
-We welcome disagreement, competing approaches, failed experiments, negative results, and critical findings when they help improve how AI systems are evaluated.
+- **Understand the context.** Review relevant materials, objectives, and scope before providing feedback. Ask questions when something is unclear.
+- **Be constructive.** Provide specific, actionable feedback supported by clear reasoning and, where possible, evidence or examples.
+- **Think critically.** Distinguish observations, opinions, and proposals. Challenge assumptions and remain open to different perspectives.
+- **Stay focused.** Keep contributions relevant, concise, and meaningful. Use GitHub issues or discussions for extensive proposals.
+- **Respect others.** Engage in good faith, welcome disagreement, and be mindful of everyone's time and effort. Any form of harassment, discrimination, spam, and abusive behavior are prohibited.
 
+### Contribution Guidelines
+
+We welcome contributions of resources, datasets, evaluations, benchmarks, tools, reproductions, validation studies, and documentation. We also welcome failed experiments, negative results, and critical findings that advance our collective understanding.
+
+We value contributions that are:
+
+- **Useful and relevant.** Help others evaluate or better understand AI systems.
+- **Transparent and reproducible.** Clearly document methods, assumptions, provenance, results, and limitations.
+- **Reusable.** Structure work so others can understand, validate, adapt, or extend it.
+- **Responsible.** Give credit, respect licenses and consent, and protect privacy. Never share improperly obtained, confidential, proprietary, or restricted data.
+- **Honest and trustworthy.** Ensure the accuracy and integrity of contributions. Fabricated, deceptive, malicious, or intentionally misleading data, results, artifacts, and claims are prohibited.
+
+### Responsible AI Usage
+
+We encourage using AI tools to support research, brainstorming, coding, writing, and other community activities. Contributions should reflect your own understanding, reasoning, and judgment.
+
+- **Bring your own perspective.** Human judgement and experience are core to OpenEvals. Bring your own perspective and critically assess AI-generated suggestions.
+- **Prioritize quality.** Avoid lengthy, unreviewed, or bulk-generated AI content. Share concise, relevant insights that add value to the discussion.
+- **Be transparent.** Acknowledge substantial AI-generated contributions.
+- **Take responsibility.** Verify the accuracy, relevance, and quality of everything you share.
